@@ -2,6 +2,10 @@
   "name": "minecraft-bots",
   "version": "1.0.0",
   "private": true,
+  "main": "bots.js",
+  "scripts": {
+    "start": "node bots.js"
+  },
   "type": "module",
   "dependencies": {
     "mineflayer": "^4.26.0",
