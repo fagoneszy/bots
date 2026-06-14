@@ -2,7 +2,7 @@ import mineflayer from 'mineflayer'
 
 const HOST = 'vivara.aternos.me'
 const PORT = 58728
-const USERNAME = 'lilith'
+const USERNAME = 'CombandoComAmor'
 
 function createBot() {
   const bot = mineflayer.createBot({ host: HOST, port: PORT, username: USERNAME, auth: 'offline' })
